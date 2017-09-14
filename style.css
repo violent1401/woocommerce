@@ -7,4 +7,17 @@
 */
 
 body {
+  min-height: 100%;
+  font-size: 16px;
+  line-height: 1;
+  font-family: 'Helvetica', sans-serif;
+}
+
+header {
+  background-color: rgb(9, 97, 156);
+  padding: 20px 0;
+}
+
+a {
+  color: #000;
 }

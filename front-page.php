@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-
+<div class="container">
 <div id="content" class="row">
 
   <div id="main" class="<?php main_classes(); ?>" role="main">
@@ -26,6 +26,6 @@
   <?php get_sidebar("right"); ?>
 
 </div>
-
+</div>
 <?php get_footer(); ?>
 

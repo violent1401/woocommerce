@@ -21,7 +21,6 @@
     </article>
 
     <?php endif; ?>
-    <?php echo '1'; ?>
   </div>
 
   <?php get_sidebar("right"); ?>
